@@ -1,0 +1,9 @@
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Evens in FS\bin\Debug\Evens_in_FS.exe.config
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Evens in FS\bin\Debug\Evens_in_FS.XML
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Evens in FS\bin\Debug\Evens_in_FS.exe
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Evens in FS\bin\Debug\Evens_in_FS.pdb
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Evens in FS\bin\Debug\FSharp.Core.dll
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Evens in FS\bin\Debug\FSharp.Core.xml
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Evens in FS\obj\Debug\Evens in FS.fsprojResolveAssemblyReference.cache
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Evens in FS\obj\Debug\Evens_in_FS.exe
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Evens in FS\obj\Debug\Evens_in_FS.pdb

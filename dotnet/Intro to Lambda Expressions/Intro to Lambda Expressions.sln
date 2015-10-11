@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intro to Lambda Expressions", "Intro to Lambda Expressions\Intro to Lambda Expressions.csproj", "{BEFBD3A3-F7ED-4B15-A00B-B03576D9CBE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evens with CS", "Evens with CS\Evens with CS.csproj", "{FFB30843-C150-412E-A601-782869B22165}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Evens in FS", "Evens in FS\Evens in FS.fsproj", "{64DED7E5-5CC1-45A4-B344-BF022D102EC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolution of Delegates", "Evolution of Delegates\Evolution of Delegates.csproj", "{34C9EC03-B9AF-447E-8313-99BC45AE6F57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expression Trees", "Expression Trees\Expression Trees.csproj", "{736EFFF5-4F68-4A88-9A19-B3DB672EE8F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "People Sort", "People Sort\People Sort.csproj", "{E907816D-F958-44B5-966E-F6D64F18063B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEFBD3A3-F7ED-4B15-A00B-B03576D9CBE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFBD3A3-F7ED-4B15-A00B-B03576D9CBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFBD3A3-F7ED-4B15-A00B-B03576D9CBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFBD3A3-F7ED-4B15-A00B-B03576D9CBE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFB30843-C150-412E-A601-782869B22165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB30843-C150-412E-A601-782869B22165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB30843-C150-412E-A601-782869B22165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB30843-C150-412E-A601-782869B22165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64DED7E5-5CC1-45A4-B344-BF022D102EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64DED7E5-5CC1-45A4-B344-BF022D102EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64DED7E5-5CC1-45A4-B344-BF022D102EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64DED7E5-5CC1-45A4-B344-BF022D102EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34C9EC03-B9AF-447E-8313-99BC45AE6F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C9EC03-B9AF-447E-8313-99BC45AE6F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C9EC03-B9AF-447E-8313-99BC45AE6F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C9EC03-B9AF-447E-8313-99BC45AE6F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{736EFFF5-4F68-4A88-9A19-B3DB672EE8F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736EFFF5-4F68-4A88-9A19-B3DB672EE8F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{736EFFF5-4F68-4A88-9A19-B3DB672EE8F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736EFFF5-4F68-4A88-9A19-B3DB672EE8F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E907816D-F958-44B5-966E-F6D64F18063B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E907816D-F958-44B5-966E-F6D64F18063B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E907816D-F958-44B5-966E-F6D64F18063B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E907816D-F958-44B5-966E-F6D64F18063B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

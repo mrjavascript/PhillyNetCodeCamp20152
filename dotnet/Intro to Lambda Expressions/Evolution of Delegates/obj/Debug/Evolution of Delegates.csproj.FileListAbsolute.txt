@@ -1,0 +1,5 @@
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Evolution of Delegates\bin\Debug\Evolution of Delegates.exe.config
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Evolution of Delegates\bin\Debug\Evolution of Delegates.exe
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Evolution of Delegates\bin\Debug\Evolution of Delegates.pdb
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Evolution of Delegates\obj\Debug\Evolution of Delegates.exe
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Evolution of Delegates\obj\Debug\Evolution of Delegates.pdb

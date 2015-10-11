@@ -1,0 +1,6 @@
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Intro to Lambda Expressions\bin\Debug\Intro to Lambda Expressions.exe.config
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Intro to Lambda Expressions\bin\Debug\Intro to Lambda Expressions.exe
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Intro to Lambda Expressions\bin\Debug\Intro to Lambda Expressions.pdb
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Intro to Lambda Expressions\obj\Debug\Intro to Lambda Expressions.csprojResolveAssemblyReference.cache
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Intro to Lambda Expressions\obj\Debug\Intro to Lambda Expressions.exe
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Intro to Lambda Expressions\obj\Debug\Intro to Lambda Expressions.pdb

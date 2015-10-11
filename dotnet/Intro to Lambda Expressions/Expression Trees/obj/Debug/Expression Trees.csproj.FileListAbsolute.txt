@@ -1,0 +1,5 @@
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Expression Trees\bin\Debug\Expression Trees.exe.config
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Expression Trees\bin\Debug\Expression Trees.exe
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Expression Trees\bin\Debug\Expression Trees.pdb
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Expression Trees\obj\Debug\Expression Trees.exe
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\Expression Trees\obj\Debug\Expression Trees.pdb

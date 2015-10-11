@@ -1,0 +1,6 @@
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\People Sort\bin\Debug\People Sort.exe.config
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\People Sort\bin\Debug\People Sort.exe
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\People Sort\bin\Debug\People Sort.pdb
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\People Sort\obj\Debug\People Sort.csprojResolveAssemblyReference.cache
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\People Sort\obj\Debug\People Sort.exe
+C:\Projects\PhillyNetCodeCamp20152\Intro to Lambda Expressions\People Sort\obj\Debug\People Sort.pdb
